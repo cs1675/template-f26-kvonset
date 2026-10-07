@@ -25,6 +25,12 @@ Implementation (iv), can be the same as any of (i)--(iii) if they meet the SLO, 
 
 - An explanation and evaluation of any optimizations you implemented, or design decisions you made, in your implementations.
 
+### Midpoint Check-In
+
+This is a long project, so we will have a midpoint check-in the week of October 19 during office hours. You should attend a staff member's office hours and demonstrate at least:
+- Your basic server design, with strategy (i) above working.
+- Some progress on either strategy (ii) or (iii).
+
 ### SLO
 
 We will publish the SLO on EdStem once the grading server is ready.
@@ -44,10 +50,12 @@ You should expect questions of the form, "Why does this graph look the way it do
 
 We will use a coarse 5-point scale as follows:
 
+0. (0.5 points) Midpoint check-in
 1. Implementation correctness
 2. Demonstrating and explaining the performance implications of vectored IO
 3. Demonstrating and explaining the performance implications of `io_uring`
-4. (2 points) Demonstrating and explaining that a configuration of your implementation meets the target SLO
+4. (1.5 points) Demonstrating and explaining that a configuration of your implementation meets the target SLO
+
 
 Successful reports will generally include headings for each of the points.
 Remember that if you lose points on a project, you can earn up to 3 points per project back at the subsequent grading meeting by fixing any problems in your report that arise.
